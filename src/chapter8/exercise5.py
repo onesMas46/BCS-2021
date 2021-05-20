@@ -1,4 +1,3 @@
-# Use the file name mbox-short.txt as the file name
 fname = "mbox_short.txt"
 count = 0
 try:
